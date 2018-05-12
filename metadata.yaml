@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8194
     wikipedia: http://en.wikipedia.org/wiki/Berthold_Auerbach
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19047#Sysm-l-inen--Kyl-inen-tarina
 gutenberg_issued: '2006-08-14'
 gutenberg_type: Text
 identifiers:
